@@ -1,0 +1,10 @@
+Package: crdb
+Type: Package
+Title: CR Database Package
+Version: 0.1.0
+Author: Reju
+Maintainer: Reju<your.email@example.com>
+Description: A package to create and manage CR databases.
+License: GPL-3
+Imports: dplyr, stringr
+RoxygenNote: 7.3.1
